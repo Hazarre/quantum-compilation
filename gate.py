@@ -119,10 +119,6 @@ def apply_on_qubit(gates, qubit_id):
     """Converts Gate2 gates to GateSingle gates acting on the same qubit."""
     return [GateSingle(gate, qubit_id) for gate in gates]
 
-
-
-
-
 class TwoLevelUnitary:
     """Represents two-level unitary matrix.
 

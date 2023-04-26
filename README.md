@@ -14,6 +14,9 @@ This repository builds a compiler with two components:
 - ```SKalgo.ipynb``` is a file that implements the Solovay-Kitaev thoerem from scratch.
 - ```qiskitSK.ipynb``` is a example file for using the [Solovay-Kitaev algorithm inside the Qiskit library](https://qiskit.org/documentation/stubs/qiskit.transpiler.passes.SolovayKitaevSynthesis.html).
 
+## Environment
+
+
 ## Todo 
 1) Sort the final compiler file. 
 2) Find main references 

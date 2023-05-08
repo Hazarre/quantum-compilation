@@ -1,5 +1,8 @@
 # Compiling Quantum Programs
-This is the repo for Li-Heng Henry Chang's Senior project "Compiling Qauntum Programs" at Bard College, NY. 
+This is the repo for Li-Heng Henry Chang's Senior project "Compiling Qauntum Programs" at Bard College, NY.  
+The thesis can be accessed [at source](https://www.overleaf.com/read/nzcwxmxtsrpr), [static pdf](https://drive.google.com/file/d/1sXTNzBw1byxULd05FhqtXEFYrr_-uHPD/view?usp=share_link) or on [Bard Digital Commons](https://digitalcommons.bard.edu/senproj_s2023).
+
+
 
 ## Objectives
 The goal of this repository is to use simple code to demonstrate the implementation of the Universal Decomposition and the Solovay-Kitaev algorithm without going into the theories that require high-level math. This will allow us to build a simple compiler as the important conceptual peices used to build a quantum compiler. 
